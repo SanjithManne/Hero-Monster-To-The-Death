@@ -1,0 +1,14 @@
+C:\Users\sanji\OneDrive\Desktop\Github\Hero-Monster-To-The-Death\bin\Debug\net8.0\Hero-Monster-To-The-Death.exe
+C:\Users\sanji\OneDrive\Desktop\Github\Hero-Monster-To-The-Death\bin\Debug\net8.0\Hero-Monster-To-The-Death.deps.json
+C:\Users\sanji\OneDrive\Desktop\Github\Hero-Monster-To-The-Death\bin\Debug\net8.0\Hero-Monster-To-The-Death.runtimeconfig.json
+C:\Users\sanji\OneDrive\Desktop\Github\Hero-Monster-To-The-Death\bin\Debug\net8.0\Hero-Monster-To-The-Death.dll
+C:\Users\sanji\OneDrive\Desktop\Github\Hero-Monster-To-The-Death\bin\Debug\net8.0\Hero-Monster-To-The-Death.pdb
+C:\Users\sanji\OneDrive\Desktop\Github\Hero-Monster-To-The-Death\obj\Debug\net8.0\Hero-Monster-To-The-Death.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanji\OneDrive\Desktop\Github\Hero-Monster-To-The-Death\obj\Debug\net8.0\Hero-Monster-To-The-Death.AssemblyInfoInputs.cache
+C:\Users\sanji\OneDrive\Desktop\Github\Hero-Monster-To-The-Death\obj\Debug\net8.0\Hero-Monster-To-The-Death.AssemblyInfo.cs
+C:\Users\sanji\OneDrive\Desktop\Github\Hero-Monster-To-The-Death\obj\Debug\net8.0\Hero-Monster-To-The-Death.csproj.CoreCompileInputs.cache
+C:\Users\sanji\OneDrive\Desktop\Github\Hero-Monster-To-The-Death\obj\Debug\net8.0\Hero-Monster-To-The-Death.dll
+C:\Users\sanji\OneDrive\Desktop\Github\Hero-Monster-To-The-Death\obj\Debug\net8.0\refint\Hero-Monster-To-The-Death.dll
+C:\Users\sanji\OneDrive\Desktop\Github\Hero-Monster-To-The-Death\obj\Debug\net8.0\Hero-Monster-To-The-Death.pdb
+C:\Users\sanji\OneDrive\Desktop\Github\Hero-Monster-To-The-Death\obj\Debug\net8.0\Hero-Monster-To-The-Death.genruntimeconfig.cache
+C:\Users\sanji\OneDrive\Desktop\Github\Hero-Monster-To-The-Death\obj\Debug\net8.0\ref\Hero-Monster-To-The-Death.dll
